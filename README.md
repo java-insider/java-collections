@@ -1,2 +1,2 @@
 # java-collections
-Códigos-fonte do curso de Java Collections API do Java Insider.
+Códigos-fonte do curso de Java Collections do Java Insider.
